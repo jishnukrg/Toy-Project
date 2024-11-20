@@ -1,8 +1,10 @@
-pip install
-
 PyQt5==5.15.9
 pygame==2.5.0
 parselmouth==0.4.0
 matplotlib==3.8.0
 seaborn==0.12.2
 numpy==1.26.0
+
+
+
+pip install -r requirements.txt
